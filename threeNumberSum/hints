@@ -1,0 +1,8 @@
+HINT 1:
+  Avoid using three for-loops
+
+HINT2:
+  Is there data transformation that can occur before developing a solution?
+
+HINT3:
+  Are there ways to break the problem down into two different tasks that allow for an O(n) or smaller time complexity? 

@@ -1,0 +1,8 @@
+HINT 1:
+  can remove be implemented using iteration, recursion, or both? What are the benefits of either approach?
+
+HINT 2: 
+  for removal, what are the major cases you need to consider? 
+
+HINT 3:
+  remove is a difficult method to add to a BST. If the node is found during a traversal, what are the steps you would take to swap out the target node with a different node
