@@ -1,7 +1,26 @@
-// Do not edit the class below except for
-// the insert, contains, and remove methods.
-// Feel free to add new properties and methods
-// to the class.
+/**
+ * Implement the removeal method of a BST data structure class.
+ * If trying to remove the root from a single node tree, return the root node
+ * 
+ * example:
+ *                   10
+ *               /        \
+ *              5         15
+ *            /  \      /    \
+ *           2    5    13     22
+ *          /         /  \
+ *         1         12  14
+ * 
+ * remove 10:
+ *                   12
+ *               /        \
+ *              5         15
+ *            /  \      /    \
+ *           2    5    13     22
+ *          /            \
+ *         1             14
+*/
+
 class BST {
   constructor(value) {
     this.value = value;
