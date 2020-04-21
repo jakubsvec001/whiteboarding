@@ -1,0 +1,14 @@
+{
+  "name": "bstconstruction",
+  "version": "1.0.0",
+  "description": "use `npm install` to install dependecies (it is only jest for testing)",
+  "main": "BstConstruction.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
